@@ -1,0 +1,99 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Feline,0.02,0.06,mg/kg,IV,1,NULL
+Calcium Gluconate,Ancillary Drugs,Feline,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Feline,0.3,1.1,ml/kg/hr,IV,0,NULL
+Dobutamine,Ancillary Drugs,Feline,2,10,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Feline,5,10,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Feline,0.2,0.4,mg/kg     ,IV,0,NULL
+Epinephrine,Ancillary Drugs,Feline,0.01,0.1,mg/kg,IV,1,NULL
+Esmolol,Ancillary Drugs,Feline,0.5,NULL,mg/kg     ,IV,0,Loading dose
+Esmolol (CRI),Ancillary Drugs,Feline,0.05,0.2,mg/kg/min,IV,0,NULL
+Fentanyl,Ancillary Drugs,Feline,1,3,µg/kg     ,IV,0,Loading dose
+Fentanyl (CRI),Ancillary Drugs,Feline,0.1,0.5,µg/kg/min,IV,0,NULL
+Glycopyrrolate,Ancillary Drugs,Feline,5,10,µg/kg,IV,1,NULL
+Hydromorphone,Ancillary Drugs,Feline,0.03,0.05,mg/kg     ,IV,0,NULL
+Insulin,Ancillary Drugs,Feline,0.1,NULL,U/kg,IV,0,After dextrose (0.5 mg/kg)
+Isoproterenol,Ancillary Drugs,Feline,0.1,0.8,µg/kg,IV,1,NULL
+Ketamine,Ancillary Drugs,Feline,0.5,NULL,mg/kg,IV,0,Loading dose
+Ketamine (CRI),Ancillary Drugs,Feline,10,NULL,µg/kg/min,IV,0,NULL
+Lidocaine,Ancillary Drugs,Feline,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Feline,0.02,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Phenylephrine,Ancillary Drugs,Feline,0.15,0.3,µg/kg/min,IV,0,NULL
+Potassium Chloride,Ancillary Drugs,Feline,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Remifentanil,Ancillary Drugs,Feline,0.1,0.2,µg/kg/min,IV,0,NULL
+Vasopressin,Ancillary Drugs,Feline,0.4,0.8,U/kg,IV,0,For CPR
+Vasopressin,Ancillary Drugs,Feline,0.01,0.04,U/kg,IV,0,Give slowly in divided doses to effect to avoid bradycardia
+Vasopressin,Ancillary Drugs,Feline,0.01,0.04,U/kg/min,IV,0,Give slowly to avoid bradycardia
+Atipamezole,Antagonists,Feline,0.05,0.15,mg/kg,IV,0,Dilute with saline and titrate to effect
+Atipamezole,Antagonists,Feline,0.1,0.3,mg/kg,IM,0,NULL
+Flumazenil,Antagonists,Feline,0.01,0.03,mg/kg,IV,0,Repeat as necessary
+Nalbuphine,Antagonists,Feline,0.1,0.2,mg/kg,IV,0,Titrate to effect
+Naloxone,Antagonists,Feline,0.002,0.04,mg/kg,IV,0,"If desired, 0.2 mg can be diluted to 5ml and given intravenously to effect."
+Yohimbine,Antagonists,Feline,0.05,0.1,mg/kg,IV,0,Dilute with saline and titrate to effect
+Yohimbine,Antagonists,Feline,0.1,0.2,mg/kg,IM,0,NULL
+Bupivacaine,Epidural Drugs,Feline,0.2,NULL,ml/kg,NULL,0,NULL
+Lidocaine,Epidural Drugs,Feline,0.2,NULL,ml/kg,NULL,0,NULL
+Mepivacaine,Epidural Drugs,Feline,0.2,NULL,ml/kg,NULL,0,NULL
+Morphine (Preservative Free),Epidural Drugs,Feline,0.1,0.2,mg/kg,NULL,0,NULL
+Calcium Gluconate (10%),Fluids,Feline,0.7,2.5,ml/kg/hr,IV,0,
+Crystalloid,Fluids,Feline,5,10,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Feline,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Feline,3,5,ml/kg,IV,0,Given as bolus
+Hetastarch (6%),Fluids,Feline,2,4,ml/kg/hr,IV,0,Maximum 5-10 ml/kg/24 hr
+Alfaxalone,Induction Drugs,Feline,1,2,mg/kg,IV,0,
+Alfaxalone (with premedication),Induction Drugs,Feline,1,2,mg/kg,IV,0,
+Alfaxalone (without premedication),Induction Drugs,Feline,1,2,mg/kg,IV,0,
+Etomidate,Induction Drugs,Feline,0.5,2,mg/kg,IV,0,"When used, midazolam or diazepam must be given immediately prior to etomidate"
+Ketamine - Diazepam,Induction Drugs,Feline,5,7.5,mg/kg,IV,0,Drugs may be combined or ketamine can be given immediately after diazepam (0.2-0.4 mg/kg)
+Ketamine - Diazepam,Induction Drugs,Feline,0.1,0.15,ml/kg,IV,0,1:1 or 1:2 combination
+Ketamine - Midazolam,Induction Drugs,Feline,5,7.5,mg/kg,IV,0,Drugs may be combined or ketamine can be given immediately after midazolam (0.2-0.4 mg/kg)
+Propofol (with sedatives),Induction Drugs,Feline,3,5,mg/kg,IV,0,NULL
+Propofol (without sedatives),Induction Drugs,Feline,4,8,mg/kg,IV,0,NULL
+Thiopental (with sedatives),Induction Drugs,Feline,10,12.5,mg/kg,IV,0,NULL
+Thiopental (without sedatives),Induction Drugs,Feline,15,20,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam,Induction Drugs,Feline,2,5,mg/kg,IV,0,NULL
+Bupivacaine,Local / Regional Anesthesia,Feline,2,NULL,mg/kg,NULL,0,NULL
+Lidocaine,Local / Regional Anesthesia,Feline,2,5,mg/kg,NULL,0,NULL
+Mepivacaine,Local / Regional Anesthesia,Feline,2,5,mg/kg,NULL,0,NULL
+Ketamine - Diazepam,Maintenance Drugs,Feline,0.1,0.4,ml/kg/hr  ,IV,0,1:1 combination
+Propofol,Maintenance Drugs,Feline,0.1,0.6,mg/kg/min ,IV,0,Dose varies with amount of sedation present in animal. Maximum duration- 30 minutes
+Ketoprofen,NSAIDS,Feline,1,2,mg/kg,PO,0,2 mg/kg once followed by 1 mg/kg q 24 h
+Meloxicam,NSAIDS,Feline,0.1,0.2,mg/kg,PO,0,0.1 - 0.2 mg/kg once followed by 0.05 mg/kg q 24 h for 1-3 days followed by 0.1 mg/cat 2-3 times/week
+Tramadol,Other,Feline,1,3,mg/kg,PO,0,q 12-24 h
+Buprenorphine,Pain Management,Feline,5,20,µg/kg,IM,0,q 8-12 h
+Butorphanol,Pain Management,Feline,0.1,0.4,mg/kg,IM,0,q 2-6 h
+Carprofen,Pain Management,Feline,2,4,mg/kg,"IM, IV, SubQ",0,NULL
+Fentanyl,Pain Management,Feline,1,3,µg/kg,IV,0,Loading dose
+Fentanyl,Pain Management,Feline,2,4,µg/kg/hr,Transdermal,0,"Onset - 12h, Duration - 72h"
+Fentanyl (CRI),Pain Management,Feline,0.03,0.4,µg/kg/min,IV,0,NULL
+Hydromorphone,Pain Management,Feline,0.05,0.1,mg/kg,IM,0,q 4-6 h
+Ketamine,Pain Management,Feline,0.5,NULL,mg/kg,IV,0,Loading dose
+Ketamine (CRI),Pain Management,Feline,1,2,µg/kg/min,IV,0,NULL
+Ketoprofen,Pain Management,Feline,2,NULL,mg/kg,"IM, IV, SubQ",0,NULL
+Meloxicam,Pain Management,Feline,0.1,0.2,mg/kg,"IM, IV, SubQ",0,NULL
+Meperidine,Pain Management,Feline,3,5,mg/kg,IM,0,q 1-2 h
+Morphine,Pain Management,Feline,0.2,0.5,mg/kg,IM,0,q 4-6 h
+Oxymorphone,Pain Management,Feline,0.02,0.1,mg/kg,IM,0,q 4-6 h
+Acepromazine,Premedication,Feline,0.1,0.2,mg/kg,IM,0,NULL
+Acepromazine (in combination),Premedication,Feline,0.05,0.1,mg/kg,IM,0,NULL
+Buprenorphine,Premedication,Feline,6,10,µg/kg,IM,0,NULL
+Butorphanol,Premedication,Feline,0.2,0.8,mg/kg,IM,0,NULL
+Dexmedetomidine,Premedication,Feline,10,20,µg/kg,IM,0,NULL
+Dexmedetomidine (in combination),Premedication,Feline,5,10,µg/kg,IM,0,NULL
+Fentanyl,Premedication,Feline,2,10,µg/kg,IM,0,NULL
+Hydromorphone,Premedication,Feline,0.03,0.05,mg/kg,IM,0,NULL
+Ketamine (in combination),Premedication,Feline,3,10,mg/kg,"IV, IM",0,NULL
+Medetomidine,Premedication,Feline,20,40,µg/kg,"IV, IM",0,NULL
+Medetomidine (in combination),Premedication,Feline,10,20,µg/kg,IM,0,NULL
+Meperidine,Premedication,Feline,3,5,mg/kg,IM,0,NULL
+Methadone,Premedication,Feline,0.1,0.3,mg/kg,"IM,IV",0,NULL
+Midazolam,Premedication,Feline,0.2,0.4,mg/kg,IM,0,NULL
+Morphine,Premedication,Feline,0.1,0.3,mg/kg,IM,0,NULL
+Oxymorphone,Premedication,Feline,0.05,0.1,mg/kg,IM,0,NULL
+Tiletamine - Zolazepam,Premedication,Feline,3,5,mg/kg,IM,0,NULL
+Acepromazine,Recovery Drugs,Feline,0.01,NULL,mg/kg,IV,0,If dysphoric
+Dexmedetomidine,Recovery Drugs,Feline,2,3,µg/kg,IV,0,If dysphoric
+Hydromorphone,Recovery Drugs,Feline,0.02,0.03,mg/kg,IV,0,If painful
+Medetomidine,Recovery Drugs,Feline,4,6,µg/kg,IV,0,If dysphoric
+Diazepam,"Supplements to propofol, thiopental and etomidate",Feline,0.2,NULL,mg/kg     ,IV,0,
+Midazolam,"Supplements to propofol, thiopental and etomidate",Feline,0.2,NULL,mg/kg     ,IV,0,

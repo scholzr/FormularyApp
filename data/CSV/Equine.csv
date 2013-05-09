@@ -1,0 +1,92 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Equine,0.02,NULL,mg/kg,IV,1,NULL
+Butorphanol,Ancillary Drugs,Equine,0.02,0.04,mg/kg,IV,0,NULL
+Butorphanol (CRI),Ancillary Drugs,Equine,13,NULL,µg/kg/hr,IV,0,NULL
+Calcium Gluconate,Ancillary Drugs,Equine,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Equine,0.3,1.1,ml/kg/hr,IV,0,NULL
+Detomidine,Ancillary Drugs,Equine,0.1,0.2,µg/kg/min,IV,0,NULL
+Dextrose (50%),Ancillary Drugs,Equine,0.25,0.5,g/kg,IV,0,NULL
+Dobutamine,Ancillary Drugs,Equine,0.5,5,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Equine,1,5,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Equine,0.02,0.04,mg/kg,IV,0,NULL
+Epinephrine,Ancillary Drugs,Equine,6,10,µg/kg,IV,1,NULL
+Epinephrine,Ancillary Drugs,Equine,0.04,0.1,µg/kg/min,IV,0,NULL
+Flunixin,Ancillary Drugs,Equine,0.5,NULL,mg/kg,IV,0,For endotoxemia
+Glycopyrrolate,Ancillary Drugs,Equine,5,10,µg/kg,IV,1,NULL
+Insulin,Ancillary Drugs,Equine,0.1,NULL,U/kg,IV,0,Give after 0.5 gm/kg dextrose
+Isoproterenol,Ancillary Drugs,Equine,0.1,0.8,µg/kg,IV,1,NULL
+Ketamine,Ancillary Drugs,Equine,6.6,13.3,µg/kg/min,IV,0,NULL
+Lidocaine,Ancillary Drugs,Equine,1,2,mg/kg,IV,0,Analgesia loading dose
+Lidocaine,Ancillary Drugs,Equine,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Equine,20,50,µg/kg/min,IV,0,Analgesia dose
+Lidocaine (CRI),Ancillary Drugs,Equine,0.05,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Lidocaine (CRI),Ancillary Drugs,Equine,0.05,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Medetomidine,Ancillary Drugs,Equine,3.5,5,µg/kg,IV,0,NULL
+Medetomidine (CRI),Ancillary Drugs,Equine,3,5,µg/kg/hr,IV,0,NULL
+Morphine,Ancillary Drugs,Equine,0.1,NULL,mg/kg,IV,0,NULL
+Nalbuphine,Ancillary Drugs,Equine,0.06,NULL,mg/kg,IV,0,NULL
+Phenylephrine,Ancillary Drugs,Equine,2,4,µg/kg,IV,0,Loading dose
+Phenylephrine (CRI),Ancillary Drugs,Equine,0.2,0.4,µg/kg/min,IV,0,NULL
+Potassium Chloride,Ancillary Drugs,Equine,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Xylazine,Ancillary Drugs,Equine,10,15,µg/kg/min,IV,0,NULL
+Tolazoline,Antagonists,Equine,2,4,mg/kg,IV,0,"Give half calculated dose slowly IV, remainder to effect"
+Bupivacaine,Epidural Drugs,Equine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Detomidine,Epidural Drugs,Equine,30,60,µg/kg,NULL,0,"Dilute with local anesthetic, 10 ml maximum volume"
+Lidocaine,Epidural Drugs,Equine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Mepivacaine,Epidural Drugs,Equine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Morphine,Epidural Drugs,Equine,0.1,NULL,mg/kg,NULL,0,Dilute with saline
+Xylazine,Epidural Drugs,Equine,0.17,0.22,mg/kg,NULL,0,"Dilute with local anesthetic, 10ml maximum volume"
+Crystalloid,Fluids,Equine,5,10,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Equine,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Equine,2,4,ml/kg/hr,IV,0,Maximum 10-20 ml/kg/24 hr
+Hypertonic Saline,Fluids,Equine,2,4,ml/kg/hr,IV,0,NULL
+5% guaifenesin - 0.1% ketamine - 0.05% xylazine),Induction Drugs,Equine,2.2,NULL,ml/kg,IV,0,
+Ketamine - Diazepam,Induction Drugs,Equine,2.2,NULL,mg/kg,IV,0,Give Xylazine (1.1 mg/kg IV) or Romifidine (0.1 mg/kg IV) first. Requires marked sedation
+Ketamine - Guaifenesin,Induction Drugs,Equine,2.2,NULL,ml/kg,IV,0,"Ketamine 1 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Ketamine - Guaifenesin,Induction Drugs,Equine,1.1,NULL,ml/kg,IV,0,"Ketamine 2 mg/ml, Guaifenesin 100 mg/ml. Mixed together, give to effect"
+Ketamine - Guaifenesin,Induction Drugs,Equine,2.2,NULL,mg/kg,IV,0,"Given separately. Administer guaifenesin until horse is ataxic, followed by ketamine"
+Thiopental,Induction Drugs,Equine,6,10,mg/kg,IV,0,NULL
+Thiopental - Guaifenesin,Induction Drugs,Equine,2.2,NULL,ml/kg,IV,0,"Thiopental 2 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Thiopental - Guaifenesin,Induction Drugs,Equine,1.1,NULL,ml/kg,IV,0,"Thiopental 4 mg/ml, Guaifenesin 100 mg/ml. Mixed together, give to effect"
+Thiopental - Guaifenesin,Induction Drugs,Equine,4,NULL,mg/kg,IV,0,"Given separately. Administer guaifenesin until horse is ataxic, followed by thiopental"
+Tiletamine - Zolazepam,Induction Drugs,Equine,1.5,NULL,mg/kg,IV,0,Requires marked Xylazine (1.1 mg/kg) sedation
+Ketamine - Xylazine,Maintenance Drugs,Equine,NULL,NULL,NULL,IV,0,25-50% of induction dose of each drug given together as needed
+Xylazine - Ketamine - Guaifenesin,Maintenance Drugs,Equine,2.2,NULL,ml/kg/hr,IV,0,"Xylazine 0.5 mg/ml, Ketamine 1 mg/ml, Guaifenesin 50 mg/ml"
+Xylazine - Ketamine - Guaifenesin,Maintenance Drugs,Equine,1.1,NULL,ml/kg/hr,IV,0,"Xylazine 1 mg/ml, Ketamine 2 mg/ml, Guaifenesin 100 mg/ml"
+Carprofen,NSAIDS,Equine,0.7,NULL,mg/kg,IV,0,q 24 h
+Firocoxib,NSAIDS,Equine,0.1,NULL,mg/kg,PO,0,q 24 h
+Flunixin,NSAIDS,Equine,1.1,NULL,mg/kg,IV,0,q 12-24
+Flunixin,NSAIDS,Equine,1.1,NULL,mg/kg,PO,0,q 12-24
+Ketoprofen,NSAIDS,Equine,2.2,NULL,mg/kg,IV,0,q 12-24h
+Phenylbutazone,NSAIDS,Equine,2,4,mg/kg,IV,0,q 12-24 h
+Phenylbutazone,NSAIDS,Equine,2.2,4.4,mg/kg,PO,0,q 12-24 h
+Butorphanol,Pain Management,Equine,0.02,0.04,mg/kg,"IV, IM",0,q 2-4 h as needed
+Butorphanol (CRI),Pain Management,Equine,13,NULL,µg/kg/hr,IV,0,NULL
+Ketamine (CRI),Pain Management,Equine,6.6,13.3,µg/kg/min,IV,0,NULL
+Lidocaine,Pain Management,Equine,1,2,mg/kg,IV,0,Followed by 20 - 50 µg/kg/min
+Lidocaine (CRI),Pain Management,Equine,20,50,µg/kg/min,IV,0,NULL
+Meperidine,Pain Management,Equine,1,4.4,mg/kg,"IV, IM",0,q 2-4 h
+Morphine,Pain Management,Equine,0.1,NULL,mg/kg,IM,0,q 6 h
+Acepromazine,Premedication,Equine,0.05,0.08,mg/kg,"IV, IM",0,NULL
+Acepromazine (in combination),Premedication,Equine,0.02,0.05,mg/kg,"IV, IM",0,NULL
+Buprenorphine,Premedication,Equine,2,5,µg/kg,IM,0,NULL
+Butorphanol,Premedication,Equine,0.04,0.1,mg/kg,"IV, IM",0,NULL
+Butorphanol (in combination with xylazine),Premedication,Equine,0.02,0.04,mg/kg,"IV, IM",0,NULL
+Detomidine,Premedication,Equine,5,10,µg/kg,"IV, IM",0,NULL
+Detomidine,Premedication,Equine,10,20,µg/kg,IV,0,Loading dose for extended standing sedation
+Detomidine,Premedication,Equine,40,NULL,µg/kg,Sublingual,0,NULL
+Detomidine (CRI),Premedication,Equine,0.1,0.2,µg/kg/min,IV,0,For extended standing sedation
+Detomidine (in combination),Premedication,Equine,2,5,µg/kg,"IV, IM",0,NULL
+Diazepam,Premedication,Equine,0.03,0.1,mg/kg,IV,0,Often causes excitement in adult horses when used alone
+Hydromorphone,Premedication,Equine,0.02,0.05,mg/kg,"IV, IM",0,NULL
+Medetomidine,Premedication,Equine,3,5,µg/kg,"IV, IM",0,NULL
+Meperidine,Premedication,Equine,1,4.4,mg/kg,"IV, IM",0,NULL
+Midazolam,Premedication,Equine,0.03,0.1,mg/kg,"IV, IM",0,Often causes excitement in adult horses when used alone
+Morphine,Premedication,Equine,0.1,0.2,mg/kg,IM,0,NULL
+Nalbuphine (in combination),Premedication,Equine,0.04,0.16,mg/kg,IV,0,NULL
+Romifidine,Premedication,Equine,25,100,µg/kg,"IV, IM",0,NULL
+Romifidine (in combination),Premedication,Equine,25,50,µg/kg,"IV, IM",0,NULL
+Xylazine,Premedication,Equine,0.2,1,mg/kg,"IV, IM",0,NULL
+Xylazine (in combination with butorphanol),Premedication,Equine,0.2,0.5,mg/kg,"IV, IM",0,NULL
+Romifidine,Recovery Drugs,Equine,10,20,µg/kg,IV,0,Give at extubation
+Xylazine,Recovery Drugs,Equine,0.1,0.4,mg/kg,IV,0,Give at extubation

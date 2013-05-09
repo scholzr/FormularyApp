@@ -1,0 +1,121 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Canine,0.02,0.06,mg/kg,IV,1,
+Calcium Gluconate,Ancillary Drugs,Canine,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Canine,0.3,1.1,ml/kg/hr,IV,0,NULL
+Dobutamine,Ancillary Drugs,Canine,2,10,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Canine,5,10,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Canine,0.2,0.4,mg/kg     ,IV,0,
+Epinephrine,Ancillary Drugs,Canine,0.01,0.1,mg/kg,IV,1,
+Esmolol,Ancillary Drugs,Canine,0.5,NULL,mg/kg     ,IV,0,Loading dose
+Esmolol (CRI),Ancillary Drugs,Canine,0.05,0.2,mg/kg/min,IV,0,NULL
+Fentanyl,Ancillary Drugs,Canine,2,5,µg/kg     ,IV,0,Loading dose
+Fentanyl (CRI),Ancillary Drugs,Canine,0.1,0.8,µg/kg/min,IV,0,NULL
+Glycopyrrolate,Ancillary Drugs,Canine,5,10,µg/kg,IV,1,NULL
+Hydromorphone,Ancillary Drugs,Canine,0.05,0.1,mg/kg     ,IV,0,
+Hydromorphone,Ancillary Drugs,Canine,0.02,NULL,mg/kg,IV,0,Loading Dose
+Hydromorphone (CRI),Ancillary Drugs,Canine,1.5,NULL,µg/kg/min,IV,0,
+Insulin,Ancillary Drugs,Canine,0.1,NULL,U/kg,IV,0,After dextrose (0.5 mg/kg)
+Isoproterenol,Ancillary Drugs,Canine,0.1,0.8,µg/kg,IV,1,NULL
+Ketamine,Ancillary Drugs,Canine,0.5,NULL,mg/kg,IV,0,Loading dose
+Ketamine (CRI),Ancillary Drugs,Canine,10,NULL,µg/kg/min,IV,0,NULL
+Lidocaine,Ancillary Drugs,Canine,1,2,mg/kg     ,IV,0,Analgesia loading dose
+Lidocaine,Ancillary Drugs,Canine,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Canine,20,50,µg/kg/min,IV,0,Analgesia dose
+Lidocaine (CRI),Ancillary Drugs,Canine,0.04,0.12,mg/kg/min,IV,1,Anti-arrhythmia dose
+Phenylephrine,Ancillary Drugs,Canine,0.15,0.3,µg/kg/min,IV,0,
+Potassium Chloride,Ancillary Drugs,Canine,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Remifentanil,Ancillary Drugs,Canine,0.1,0.4,µg/kg/min,IV,0,NULL
+Vasopressin,Ancillary Drugs,Canine,0.4,0.8,U/kg,IV,0,For CPR
+Vasopressin,Ancillary Drugs,Canine,0.01,0.04,U/kg,IV,0,Give slowly in divided doses to effect to avoid bradycardia
+Vasopressin,Ancillary Drugs,Canine,0.01,0.04,u/kg/min,IV,0,Give slowly to avoid bradycardia
+Atipamezole,Antagonists,Canine,0.05,0.15,mg/kg,IV,0,Dilute with saline and titrate to effect
+Atipamezole,Antagonists,Canine,0.1,0.3,mg/kg,IM,0,NULL
+Flumazenil,Antagonists,Canine,0.01,0.03,mg/kg,IV,0,Repeat as necessary
+Nalbuphine,Antagonists,Canine,0.1,0.2,mg/kg,IV,0,Titrate to effect
+Naloxone,Antagonists,Canine,0.002,0.04,mg/kg,IV,0,"If desired, 0.4 mg can be diluted to 10ml and given intravenously to effect."
+Yohimbine,Antagonists,Canine,0.05,0.1,mg/kg,IV,0,Dilute with saline and titrate to effect
+Yohimbine,Antagonists,Canine,0.1,0.2,mg/kg,IM,0,NULL
+Bupivacaine,Epidural Drugs,Canine,0.2,NULL,ml/kg,NULL,0,6 ml maximum
+Lidocaine,Epidural Drugs,Canine,0.2,NULL,ml/kg,NULL,0,6 ml maximum
+Mepivacaine,Epidural Drugs,Canine,0.2,NULL,ml/kg,NULL,0,6 ml maximum
+Morphine (Preservative Free),Epidural Drugs,Canine,0.1,0.2,mg/kg,NULL,0,NULL
+Calcium Gluconate (10%),Fluids,Canine,0.7,2.5,ml/kg/hr,IV,0,
+Crystalloid,Fluids,Canine,5,10,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Canine,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Canine,3,5,ml/kg,IV,0,Given as bolus
+Hetastarch (6%),Fluids,Canine,2,4,ml/kg/hr,IV,0,Maximum 10-20 ml/kg/24 hr
+Alfaxalone,Induction Drugs,Canine,1,2,mg/kg,IV,0,
+Alfaxalone (with premedication),Induction Drugs,Canine,1,2,mg/kg,IV,0,
+Alfaxalone (without premedication),Induction Drugs,Canine,1,2,mg/kg,IV,0,
+Etomidate,Induction Drugs,Canine,0.5,2,mg/kg,IV,0,"When used, midazolam or diazepam must be given immediately prior to etomidate"
+Ketamine - Diazepam,Induction Drugs,Canine,5,7.5,mg/kg,IV,0,Drugs may be combined or ketamine can be given immediately after diazepam (0.2-0.4 mg/kg)
+Ketamine - Diazepam,Induction Drugs,Canine,0.1,0.15,ml/kg,IV,0,1:1 or 1:2 combination
+Ketamine - Midazolam,Induction Drugs,Canine,5,7.5,mg/kg,IV,0,Drugs may be combined or ketamine can be given immediately after midazolam (0.2-0.4 mg/kg)
+Propofol (with sedatives),Induction Drugs,Canine,3,5,mg/kg,IV,0,NULL
+Propofol (without sedatives),Induction Drugs,Canine,4,8,mg/kg,IV,0,NULL
+Thiopental (with sedatives),Induction Drugs,Canine,10,12.5,mg/kg,IV,0,NULL
+Thiopental (without sedatives),Induction Drugs,Canine,15,20,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam,Induction Drugs,Canine,2,5,mg/kg,IV,0,NULL
+Bupivacaine,Local / Regional Anesthesia,Canine,2,NULL,mg/kg,NULL,0,NULL
+Lidocaine,Local / Regional Anesthesia,Canine,2,5,mg/kg,NULL,0,NULL
+Mepivacaine,Local / Regional Anesthesia,Canine,2,5,mg/kg,NULL,0,NULL
+Ketamine - Diazepam,Maintenance Drugs,Canine,0.1,0.4,ml/kg/hr  ,IV,0,1:1 combination
+Propofol,Maintenance Drugs,Canine,0.1,0.6,mg/kg/min ,IV,0,Dose varies with amount of sedation present in animal
+Carprofen,NSAIDS,Canine,2.2,NULL,mg/kg,PO,0,q 12-24 h
+Carprofen,NSAIDS,Canine,2,4,mg/kg,"IV, IM",0,q 12-24
+Deracoxib,NSAIDS,Canine,1,2,mg/kg,PO,0,q 24 h
+Etodolac,NSAIDS,Canine,10,15,mg/kg,PO,0,q 24 h
+Firocoxib,NSAIDS,Canine,5,NULL,mg/kg,PO,0,q 24 h
+Ketoprofen,NSAIDS,Canine,1,2,mg/kg,PO,0,2 mg/kg once followed by 1 mg/kg q 24 h
+Meloxicam,NSAIDS,Canine,0.1,0.2,mg/kg,PO,0,0.2 mg/kg q 24 h followed by 0.1 mg/kg q 24 h
+Tepoxalin,NSAIDS,Canine,10,NULL,mg/kg,PO,0,q 24 h
+Acetominophen,Other,Canine,15,NULL,mg/kg,PO,0,q 8 h
+Aspirin,Other,Canine,10,NULL,mg/kg,PO,0,q 12 h
+Tramadol,Other,Canine,2,5,mg/kg,PO,0,q 8-12 h
+Buprenorphine,Pain Management,Canine,5,20,µg/kg,IM,0,q 8-12 h
+Butorphanol,Pain Management,Canine,0.1,0.4,mg/kg,IM,0,q 1-4 h
+Carprofen,Pain Management,Canine,2,4,mg/kg,"IM, IV, SubQ",0,NULL
+Etodolac,Pain Management,Canine,10,15,mg/kg,SQ,0,NULL
+Fentanyl,Pain Management,Canine,2,5,µg/kg,IV,0,Loading Dose
+Fentanyl,Pain Management,Canine,2,4,µg/kg/hr,Transdermal,0,"Onset - 12h, Duration - 72h"
+Fentanyl (CRI),Pain Management,Canine,0.03,0.4,µg/kg/min,IV,0,NULL
+Hydromorphone,Pain Management,Canine,0.05,0.2,mg/kg,IM,0,q 4-6 h
+Hydromorphone,Pain Management,Canine,0.02,NULL,mg/kg,IV,0,Loading Dose
+Hydromorphone (CRI),Pain Management,Canine,1.5,NULL,µg/kg/min,IV,0,
+Ketamine,Pain Management,Canine,0.5,NULL,mg/kg,IV,0,Loading Dose
+Ketamine (CRI),Pain Management,Canine,2,NULL,µg/kg/min,IV,0,Post surgical for 24 hours
+Ketoprofen,Pain Management,Canine,2,NULL,mg/kg,"IM, IV, SubQ",0,NULL
+Meloxicam,Pain Management,Canine,0.1,0.2,mg/kg,"IM, IV, SubQ",0,NULL
+Meperidine,Pain Management,Canine,3,5,mg/kg,IM,0,q 1-2 h
+Morphine,Pain Management,Canine,0.5,2,mg/kg,IM,0,q 4-6 h
+Morphine,Pain Management,Canine,0.1,0.2,mg/kg/hr,IV,0,NULL
+Oxymorphone,Pain Management,Canine,0.05,0.4,mg/kg,IM,0,q 4-6 h
+Remifentanil,Pain Management,Canine,0.1,0.2,µg/kg/min,IV,0,NULL
+Acepromazine,Premedication,Canine,0.05,0.1,mg/kg,IM,0,NULL
+Acepromazine (in combination),Premedication,Canine,0.01,0.05,mg/kg,IM,0,NULL
+Buprenorphine,Premedication,Canine,6,10,µg/kg,IM,0,NULL
+Butorphanol,Premedication,Canine,0.1,0.2,mg/kg,IM,0,NULL
+Dexmedetomidine,Premedication,Canine,5,15,µg/kg,IM,0,NULL
+Dexmedetomidine,Premedication,Canine,0.5,3,µg/kg,IV,0,Loading dose for prolonged sedation
+Dexmedetomidine (CRI)  Dexmedetomidine (CRI),Premedication,Canine,0.05,0.3,µg/kg/min,IV,0,For prolonged sedation
+Dexmedetomidine (in combination),Premedication,Canine,3,5,µg/kg,IM,0,NULL
+Fentanyl,Premedication,Canine,5,40,µg/kg,IM,0,NULL
+Hydromorphone,Premedication,Canine,0.05,0.2,mg/kg,IM,0,NULL
+Ketamine (in combination),Premedication,Canine,3,7,mg/kg,"IV, IM",0,NULL
+Medetomidine,Premedication,Canine,10,30,µg/kg,"IV, IM",0,NULL
+Medetomidine,Premedication,Canine,1,6,µg/kg,IV,0,For extended sedation. Followed by 0.1-0.6 µg/kg/min IV
+Medetomidine (in combination),Premedication,Canine,5,10,µg/kg,IM,0,NULL
+Meperidine,Premedication,Canine,3,5,mg/kg,IM,0,NULL
+Methadone,Premedication,Canine,0.1,0.5,mg/kg,"IM, IV",0,NULL
+Midazolam,Premedication,Canine,0.2,0.4,mg/kg,IM,0,NULL
+Morphine,Premedication,Canine,0.25,1,mg/kg,IM,0,NULL
+Nalbuphine,Premedication,Canine,0.5,1,mg/kg,IM,0,NULL
+Oxymorphone,Premedication,Canine,0.03,0.1,mg/kg,IM,0,NULL
+Tiletamine - Zolazepam,Premedication,Canine,3,5,mg/kg,IM,0,NULL
+Acepromazine,Recovery Drugs,Canine,0.01,NULL,mg/kg,IV,0,If dysphoric
+Dexmedetomidine,Recovery Drugs,Canine,1,NULL,µg/kg     ,IV,0,If dysphoric
+Hydromorphone,Recovery Drugs,Canine,0.03,0.05,mg/kg,IV,0,If painful
+Medetomidine,Recovery Drugs,Canine,2,NULL,µg/kg     ,IV,0,If dysphoric
+Diazepam,"Supplements to propofol, thiopental and etomidate",Canine,0.2,NULL,mg/kg     ,IV,0,
+Lidocaine,"Supplements to propofol, thiopental and etomidate",Canine,2,NULL,mg/kg     ,IV,0,
+Midazolam,"Supplements to propofol, thiopental and etomidate",Canine,0.2,NULL,mg/kg     ,IV,0,

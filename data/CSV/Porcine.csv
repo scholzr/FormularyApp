@@ -1,0 +1,62 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Porcine,0.02,NULL,mg/kg,IV,1,NULL
+Butorphanol,Ancillary Drugs,Porcine,0.02,0.04,mg/kg,IV,0,NULL
+Butorphanol (CRI),Ancillary Drugs,Porcine,13,NULL,µg/kg/hr,IV,0,NULL
+Calcium Gluconate,Ancillary Drugs,Porcine,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Porcine,0.3,1.1,ml/kg/hr,IV,0,NULL
+Dextrose (50%),Ancillary Drugs,Porcine,0.25,0.5,g/kg,IV,0,NULL
+Dobutamine,Ancillary Drugs,Porcine,0.5,5,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Porcine,1,5,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Porcine,0.02,0.04,mg/kg,IV,0,NULL
+Epinephrine,Ancillary Drugs,Porcine,6,10,µg/kg,IV,1,NULL
+Epinephrine,Ancillary Drugs,Porcine,0.04,0.1,µg/kg/min,IV,0,NULL
+Fentanyl,Ancillary Drugs,Porcine,2,5,µg/kg,IV,0,Loading dose
+Fentanyl (CRI),Ancillary Drugs,Porcine,0.1,0.8,µg/kg/min,IV,0,NULL
+Flunixin,Ancillary Drugs,Porcine,0.5,NULL,mg/kg,IV,0,For endotoxemia
+Glycopyrrolate,Ancillary Drugs,Porcine,5,10,µg/kg,IV,1,NULL
+Isoproterenol,Ancillary Drugs,Porcine,0.1,0.8,µg/kg,IV,1,NULL
+Lidocaine,Ancillary Drugs,Porcine,1,2,mg/kg,IV,0,Analgesia loading dose
+Lidocaine,Ancillary Drugs,Porcine,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Porcine,20,50,µg/kg/min,IV,0,Analgesia dose
+Lidocaine (CRI),Ancillary Drugs,Porcine,0.05,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Morphine,Ancillary Drugs,Porcine,0.1,NULL,mg/kg,IV,0,NULL
+Nalbuphine,Ancillary Drugs,Porcine,0.06,NULL,mg/kg,IV,0,NULL
+Phenylephrine,Ancillary Drugs,Porcine,2,4,µg/kg,IV,0,Loading dose
+Phenylephrine (CRI),Ancillary Drugs,Porcine,0.2,0.4,µg/kg/min,IV,0,NULL
+Potassium Chloride,Ancillary Drugs,Porcine,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Bupivacaine,Epidural Drugs,Porcine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Lidocaine,Epidural Drugs,Porcine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Mepivacaine,Epidural Drugs,Porcine,0.01,0.02,ml/kg,NULL,0,10ml maximum volume
+Crystalloid,Fluids,Porcine,5,10,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Porcine,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Porcine,2,4,ml/kg/hr,IV,0,NULL
+Hypertonic Saline,Fluids,Porcine,2,4,ml/kg/hr,IV,0,NULL
+Ketamine - Midazolam,Induction Drugs,Porcine,4.4,NULL,mg/kg,IV,0,Give simultaneously with midazolam (0.11 mg/kg)
+Ketamine - Xylazine,Induction Drugs,Porcine,2.2,NULL,mg/kg,IV,0,Give simultaneously with xylazine (2.2 mg/kg)
+Ketamine - Xylazine,Induction Drugs,Porcine,10,15,mg/kg,IM,0,Give 10 minutes after xylazine (2.2 mg/kg)
+Ketamine - Xylazine,Induction Drugs,Porcine,6,NULL,mg/kg,IM,0,Give simultaneously with xylazine (2.2 mg/kg)
+Ketamine - Xylazine - Butorphanol,Induction Drugs,Porcine,11,NULL,mg/kg,IM,0,Give with xylazine (2.2 mg/kg) and butorphanol (0.22 mg/kg)
+Propofol (with sedatives),Induction Drugs,Porcine,3,6,mg/kg,IV,0,NULL
+Propofol (without sedatives),Induction Drugs,Porcine,4,8,mg/kg,IV,0,NULL
+Thiopental (with sedatives),Induction Drugs,Porcine,4,8,mg/kg,IV,0,NULL
+Thiopental (without sedatives),Induction Drugs,Porcine,6,10,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (with sedatives),Induction Drugs,Porcine,1.5,2,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (without sedatives),Induction Drugs,Porcine,2.2,NULL,mg/kg,IV,0,NULL
+Xylazine - Ketamine - Tiletamine - Zolazepam,Induction Drugs,Porcine,0.013,0.029,ml/kg,"IV, IM",0,Add 2.5 ml Xylazine (100 mg/ml) and 2.5 ml Ketamine (100 mg/ml) to an unopened vial of Tiletamine - Zolazepam.
+Xylazine - Tiletamine - Zolazepam,Induction Drugs,Porcine,2.2,NULL,mg/kg,IV,0,Give simultaneously with xylazine (2.2 mg/kg)
+Propofol,Maintenance Drugs,Porcine,0.1,0.6,mg/kg/min,IV,0,Dose varies with amount of sedation present in animal
+Xylazine - Ketamine - Guaifenesin,Maintenance Drugs,Porcine,2,NULL,ml/kg/hr,IV,0,"Xylazine 1 mg/ml, Ketamine 2 mg/ml, Guaifenesin 50 mg/ml"
+Carprofen,NSAIDS,Porcine,2.2,NULL,mg/kg,IM,0,q 24 h
+Carprofen,NSAIDS,Porcine,2,3,mg/kg,PO,0,q 24 h
+Flunixin,NSAIDS,Porcine,2.2,NULL,mg/kg,IM,0,q 12-24 h
+Ketoprofen,NSAIDS,Porcine,1,3,mg/kg,"IM, PO",0,q 12-24 h
+Buprenorphine,Pain Management,Porcine,5,10,ug/kg,IM,0,
+Buprenorphine,Pain Management,Porcine,5,NULL,ug/kg,IV,0,
+Morphine,Pain Management,Porcine,0.2,1,mg/kg,IM,0,q 4-6 h
+Acepromazine,Premedication,Porcine,0.04,0.4,mg/kg,IM,0,Maximum 15 mg
+Azaperone,Premedication,Porcine,1,8,mg/kg,IM,0,NULL
+Butorphanol,Premedication,Porcine,0.05,0.2,mg/kg,IM,0,NULL
+Fentanyl,Premedication,Porcine,2,10,µg/kg,IM,0,NULL
+Midazolam,Premedication,Porcine,0.1,0.5,mg/kg,"IV, IM",0,Can also be given intranasally
+Morphine,Premedication,Porcine,0.25,1,mg/kg,IM,0,NULL
+Xylazine,Premedication,Porcine,1,2,mg/kg,"IV, IM",0,NULL

@@ -1,0 +1,80 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Camelid,0.02,NULL,mg/kg,IV,1,NULL
+Butorphanol,Ancillary Drugs,Camelid,0.02,0.04,mg/kg,IV,0,NULL
+Butorphanol,Ancillary Drugs,Camelid,13,NULL,µg/kg/hr,IV,0,NULL
+Calcium Gluconate,Ancillary Drugs,Camelid,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Camelid,0.3,1.1,ml/kg/hr,IV,0,NULL
+Dextrose (50%),Ancillary Drugs,Camelid,0.25,0.5,g/kg,IV,0,NULL
+Dobutamine,Ancillary Drugs,Camelid,0.5,5,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Camelid,1,5,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Camelid,0.02,0.04,mg/kg,IV,0,NULL
+Epinephrine,Ancillary Drugs,Camelid,6,10,µg/kg,IV,1,NULL
+Epinephrine,Ancillary Drugs,Camelid,0.04,0.1,µg/kg/min,IV,0,NULL
+Fentanyl,Ancillary Drugs,Camelid,2,5,µg/kg/min,IV,0,Loading Dose
+Flunixin,Ancillary Drugs,Camelid,0.5,NULL,mg/kg,IV,0,For endotoxemia
+Glycopyrrolate,Ancillary Drugs,Camelid,5,10,µg/kg,IV,1,NULL
+Insulin,Ancillary Drugs,Camelid,0.1,NULL,U/kg,IV,0,Give after 0.5 gm/kg dextrose
+Isoproterenol,Ancillary Drugs,Camelid,0.1,0.8,µg/kg,IV,1,NULL
+Ketamine,Ancillary Drugs,Camelid,40,NULL,µg/kg/min,IV,0,NULL
+Lidocaine,Ancillary Drugs,Camelid,1,2,mg/kg,IV,0,Analgesia loading dose
+Lidocaine,Ancillary Drugs,Camelid,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Camelid,20,50,µg/kg/min,IV,0,Analgesia dose
+Lidocaine (CRI),Ancillary Drugs,Camelid,0.05,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Morphine,Ancillary Drugs,Camelid,0.1,NULL,mg/kg,IV,0,NULL
+Nalbuphine,Ancillary Drugs,Camelid,0.06,NULL,mg/kg,IV,0,NULL
+Phenylephrine,Ancillary Drugs,Camelid,2,4,µg/kg,IV,0,Loading dose
+Phenylephrine (CRI),Ancillary Drugs,Camelid,0.2,0.4,µg/kg/min,IV,0,NULL
+Potassium Chloride,Ancillary Drugs,Camelid,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Atipamezole,Antagonists,Camelid,30,60,µg/kg,IV,0,Give to effect
+Tolazoline,Antagonists,Camelid,1,2,mg/kg,IV,0,"Give half calculated dose slowly IV, remainder to effect"
+Yohimbine,Antagonists,Camelid,0.12,NULL,mg/kg,IV,0,Give to effect
+Bupivacaine,Epidural Drugs,Camelid,0.01,0.02,ml/kg,NULL,0,2ml maximum volume
+Lidocaine,Epidural Drugs,Camelid,0.01,0.02,ml/kg,NULL,0,2ml maximum volume
+Mepivacaine,Epidural Drugs,Camelid,0.01,0.02,ml/kg,NULL,0,2ml maximum volume
+Xylazine,Epidural Drugs,Camelid,0.17,NULL,mg/kg,NULL,0,Dilute with local anesthetic. 2 ml maximum volume
+Crystalloid,Fluids,Camelid,3,6,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Camelid,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Camelid,2,4,ml/kg/hr,IV,0,NULL
+Hypertonic Saline,Fluids,Camelid,2,4,ml/kg/hr,IV,0,NULL
+5% guaifenesin - 0.1% ketamine - 0.02% xylazine),Induction Drugs,Camelid,2.2,NULL,ml/kg,IV,0,
+Ketamine - Diazepam,Induction Drugs,Camelid,2.2,4.4,mg/kg,IV,0,Give simultaneously with diazepam (0.1-0.2 mg/kg)
+Ketamine - Guaifenesin,Induction Drugs,Camelid,2,NULL,ml/kg,IV,0,"Ketamine 1 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Ketamine - Midazolam,Induction Drugs,Camelid,NULL,NULL,NULL,IV,0,Give simultaneously. Decrease dose if animal is sedated
+Ketamine - Xylazine,Induction Drugs,Camelid,2.2,NULL,mg/kg,IV,0,Give 5 minutes after xylazine (0.25 mg/kg IV)
+Ketamine - Xylazine,Induction Drugs,Camelid,2.2,NULL,mg/kg,IV,0,Give 5 minutes after xylazine (0.5 mg/kg IM)
+Propofol (with sedatives),Induction Drugs,Camelid,2,5,mg/kg,IV,0,NULL
+Propofol (without sedatives),Induction Drugs,Camelid,4,8,mg/kg,IV,0,NULL
+Thiopental - Guaifenesin,Induction Drugs,Camelid,2,NULL,ml/kg,NULL,0,"Thiopental 2 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Thiopental (with sedatives),Induction Drugs,Camelid,4,8,mg/kg,IV,0,NULL
+Thiopental (without sedatives),Induction Drugs,Camelid,6,10,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (with sedatives),Induction Drugs,Camelid,1,2,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (without sedatives),Induction Drugs,Camelid,2.2,NULL,mg/kg,IV,0,NULL
+Propofol,Maintenance Drugs,Camelid,0.1,0.6,mg/kg/min,IV,0,Dose varies with amount of sedation present in animal
+Xylazine - Ketamine - Guaifenesin,Maintenance Drugs,Camelid,2.2,NULL,ml/kg/hr,IV,0,"Xylazine 0.2 mg/ml, Ketamine 1 mg/ml, Guaifenesin 50 mg/ml"
+Flunixin,NSAIDS,Camelid,0.5,1.1,mg/kg,IV,0,q 12-24 h
+Ketoprofen,NSAIDS,Camelid,1,2,mg/kg,IV,0,q 24 h
+Buprenorphine,Pain Management,Camelid,2,5,µg/kg,IV,0,NULL
+Butorphanol,Pain Management,Camelid,0.05,0.1,mg/kg,IM,0,q 4 h as needed
+Ketamine (CRI),Pain Management,Camelid,20,40,µg/kg/min,IV,0,NULL
+Lidocaine,Pain Management,Camelid,1,2,mg/kg,IV,0,Followed by 20 - 50 µg/kg/min
+Lidocaine (CRI),Pain Management,Camelid,20,50,µg/kg/min,IV,0,NULL
+Morphine,Pain Management,Camelid,0.25,NULL,mg/kg,IV,0,q 4 h
+Nalbuphine,Pain Management,Camelid,0.2,0.4,mg/kg,"IV, IM",0,q 4-6 h as needed
+Acepromazine,Premedication,Camelid,0.04,0.08,mg/kg,"IV, IM",0,NULL
+"BKX (Butorphanol 10mg/ml, Ketamine 100mg/ml, Xylazine 100mg/ml)",Premedication,Camelid,1,NULL,ml/22kg,IM,0,Llama dose. Add 1 ml butorphanol and 1 ml xylazine to a 10 ml vial of ketamine.
+"BKX (Butorphanol 10mg/ml, Ketamine 100mg/ml, Xylazine 100mg/ml)",Premedication,Camelid,1,NULL,ml/19kg,IM,0,Alpaca dose.  Add 1 ml butorphanol and 1 ml xylazine to a 10 ml vial of ketamine.
+Buprenorphine,Premedication,Camelid,5,10,µg/kg,IM,0,NULL
+Buprenorphine,Premedication,Camelid,5,NULL,µg/kg,IV,0,NULL
+Butorphanol,Premedication,Camelid,0.05,0.1,mg/kg,"IV, IM",0,NULL
+Butorphanol (in combination with xylazine),Premedication,Camelid,0.02,NULL,mg/kg,IV,0,Causes recumbency
+Diazepam,Premedication,Camelid,0.05,0.3,mg/kg,IV,0,NULL
+Fentanyl,Premedication,Camelid,1,5,µg/kg,IV,0,NULL
+Hydromorphone,Premedication,Camelid,0.05,0.1,mg/kg,"IV, IM",0,NULL
+"Ketamine ""Stun""",Premedication,Camelid,0.22,0.33,mg/kg,IV,0,Give simultaneously with xylazine (0.22-0.33 mg/kg) and butorphanol (0.077-0.11 mg/kg)
+"Ketamine ""Stun""",Premedication,Camelid,0.22,0.55,mg/kg,IM,0,Give simultaneously with xylazine (0.22-0.55 mg/kg) and butorphanol (0.055-0.11 mg/kg)
+Meperidine,Premedication,Camelid,2,4,mg/kg,"IV, IM",0,NULL
+Midazolam,Premedication,Camelid,0.05,0.3,mg/kg,"IV, IM",0,NULL
+Morphine,Premedication,Camelid,0.05,0.25,mg/kg,IV,0,NULL
+Nalbuphine,Premedication,Camelid,0.2,0.4,mg/kg,"IV, IM",0,NULL
+Xylazine,Premedication,Camelid,0.1,0.5,mg/kg,IV,0,High doses will cause recumbency
+Xylazine (in combination with butorphanol),Premedication,Camelid,0.2,NULL,mg/kg,IV,0,Causes recumbency

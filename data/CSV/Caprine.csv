@@ -1,0 +1,78 @@
+Drug Name,Class,Species,Low Dose,High Dose,Dose Unit,Route,Emerg.,Notes
+Atropine,Ancillary Drugs,Caprine,0.06,NULL,mg/kg,IV,1,NULL
+Butorphanol,Ancillary Drugs,Caprine,0.02,0.04,mg/kg,IV,0,NULL
+Butorphanol (CRI),Ancillary Drugs,Caprine,13,NULL,µg/kg/hr,IV,0,NULL
+Calcium Gluconate,Ancillary Drugs,Caprine,0.1,0.4,mg/kg/min,IV,0,NULL
+Calcium Gluconate (23%),Ancillary Drugs,Caprine,0.3,1.1,ml/kg/hr,IV,0,NULL
+Dextrose (50%),Ancillary Drugs,Caprine,0.25,0.5,g/kg,IV,0,NULL
+Dobutamine,Ancillary Drugs,Caprine,0.5,5,µg/kg/min,IV,1,NULL
+Dopamine,Ancillary Drugs,Caprine,1,5,µg/kg/min,IV,1,NULL
+Ephedrine,Ancillary Drugs,Caprine,0.02,0.04,mg/kg,IV,0,NULL
+Epinephrine,Ancillary Drugs,Caprine,6,10,µg/kg,IV,1,NULL
+Epinephrine,Ancillary Drugs,Caprine,0.04,0.1,µg/kg/min,IV,0,NULL
+Fentanyl,Ancillary Drugs,Caprine,2,5,µg/kg,IV,0,Loading dose
+Fentanyl (CRI),Ancillary Drugs,Caprine,0.1,0.8,µg/kg/min,IV,0,NULL
+Flunixin,Ancillary Drugs,Caprine,0.5,NULL,mg/kg,IV,0,For endotoxemia
+Glycopyrrolate,Ancillary Drugs,Caprine,5,10,µg/kg,IV,1,NULL
+Insulin,Ancillary Drugs,Caprine,0.1,NULL,U/kg,IV,0,Give after 0.5 gm/kg dextrose
+Isoproterenol,Ancillary Drugs,Caprine,0.1,0.8,µg/kg,IV,1,NULL
+Ketamine,Ancillary Drugs,Caprine,0.5,NULL,mg/kg,IV,0,Loading dose
+Ketamine (CRI),Ancillary Drugs,Caprine,20,NULL,µg/kg/min,IV,0,NULL
+Lidocaine,Ancillary Drugs,Caprine,1,2,mg/kg,IV,0,Analgesia loading dose
+Lidocaine,Ancillary Drugs,Caprine,1,2,mg/kg,IV,1,Anti-arrhythmia loading dose
+Lidocaine (CRI),Ancillary Drugs,Caprine,20,100,µg/kg/min,IV,0,Analgesia dose
+Lidocaine (CRI),Ancillary Drugs,Caprine,0.05,0.08,mg/kg/min,IV,1,Anti-arrhythmia dose
+Morphine,Ancillary Drugs,Caprine,0.1,NULL,mg/kg,IV,0,NULL
+Nalbuphine,Ancillary Drugs,Caprine,0.06,NULL,mg/kg,IV,0,NULL
+Phenylephrine,Ancillary Drugs,Caprine,2,4,µg/kg,IV,0,Loading dose
+Phenylephrine (CRI),Ancillary Drugs,Caprine,0.2,0.4,µg/kg/min,IV,0,NULL
+Potassium Chloride,Ancillary Drugs,Caprine,0.2,0.3,mEq/kg/hr,IV,0,NULL
+Atipamezole,Antagonists,Caprine,30,60,µg/kg,IV,0,Give to effect
+Tolazoline,Antagonists,Caprine,1,2,mg/kg,IV,0,"Give half calculated dose slowly IV, remainder to effect"
+Yohimbine,Antagonists,Caprine,0.12,NULL,mg/kg,IV,0,Give to effect
+Bupivacaine,Epidural Drugs,Caprine,0.01,0.02,ml/kg,NULL,0,3ml maximum volume
+Lidocaine,Epidural Drugs,Caprine,0.01,0.02,ml/kg,NULL,0,3ml maximum volume
+Mepivacaine,Epidural Drugs,Caprine,0.01,0.02,ml/kg,NULL,0,3ml maximum volume
+Crystalloid,Fluids,Caprine,5,10,ml/kg/hr,IV,0,NULL
+Fluid Bolus,Fluids,Caprine,15,NULL,ml,IV,0,Given over 15 minutes
+Hetastarch (6%),Fluids,Caprine,2,4,ml/kg/hr,IV,0,NULL
+Hypertonic Saline,Fluids,Caprine,2,4,ml/kg/hr,IV,0,NULL
+5% guaifenesin - 0.1% ketamine - 0.005% xylazine),Induction Drugs,Caprine,2.2,NULL,ml/kg,IV,0,
+Ketamine - Diazepam,Induction Drugs,Caprine,4.4,NULL,mg/kg,IV,0,Give simultaneously with diazepam (0.11 mg/kg)
+Ketamine - Guaifenesin,Induction Drugs,Caprine,2.2,NULL,ml/kg,IV,0,"Ketamine 1 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Ketamine - Midazolam,Induction Drugs,Caprine,4.4,NULL,mg/kg,IV,0,Give simultaneously with midazolam (0.11 mg/kg)
+Ketamine - Xylazine,Induction Drugs,Caprine,2.2,NULL,mg/kg,IV,0,Give 5 minutes after xylazine (0.1-0.2 mg/kg ID)
+Ketamine - Xylazine,Induction Drugs,Caprine,3,5,mg/kg,IV,0,Give 5 minutes after xylazine (0.03 mg/kg IV)
+Propofol (with sedatives),Induction Drugs,Caprine,2,5,mg/kg,IV,0,NULL
+Propofol (without sedatives),Induction Drugs,Caprine,4,8,mg/kg,IV,0,NULL
+Thiopental - Guaifenesin,Induction Drugs,Caprine,2.2,NULL,ml/kg,NULL,0,"Thiopental 2 mg/ml, Guaifenesin 50 mg/ml. Mixed together, give to effect"
+Thiopental (with sedatives),Induction Drugs,Caprine,4,8,mg/kg,IV,0,NULL
+Thiopental (without sedatives),Induction Drugs,Caprine,7,10,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (with sedatives),Induction Drugs,Caprine,1,2,mg/kg,IV,0,NULL
+Tiletamine - Zolazepam (without sedatives),Induction Drugs,Caprine,2.2,NULL,mg/kg,IV,0,NULL
+Xylazine - Ketamine - Guaifenesin,Maintenance Drugs,Caprine,2.2,NULL,ml/kg/hr,IV,0,"Xylazine 0.05 mg/ml, Ketamine 1 mg/ml, Guaifenesin 50 mg/ml"
+Flunixin,NSAIDS,Caprine,1.1,NULL,mg/kg,IV,0,q 12-24 h
+Ketoprofen,NSAIDS,Caprine,3,NULL,mg/kg,IV,0,q 24 h
+Butorphanol,Pain Management,Caprine,0.05,0.2,mg/kg,"IV, IM",0,q 4 h as needed
+Ketamine (CRI),Pain Management,Caprine,20,40,µg/kg/min,IV,0,NULL
+Lidocaine,Pain Management,Caprine,1,2,mg/kg,IV,0,Followed by 20 - 50 µg/kg/min
+Lidocaine (CRI),Pain Management,Caprine,20,50,µg/kg/min,IV,0,NULL
+Morphine,Pain Management,Caprine,0.05,0.1,mg/kg,"IV, IM",0,q 4-6 h
+Acepromazine,Premedication,Caprine,0.02,0.06,mg/kg,"IV, IM",0,NULL
+Buprenorphine,Premedication,Caprine,2,10,µg/kg,IM,0,NULL
+Butorphanol,Premedication,Caprine,0.05,0.2,mg/kg,IV,0,NULL
+Butorphanol (in combination with xylazine),Premedication,Caprine,0.02,NULL,mg/kg,IV,0,Causes recumbency
+Detomidine,Premedication,Caprine,2,10,µg/kg,"IV, IM",0,NULL
+Detomidine,Premedication,Caprine,20,30,µg/kg,IV,0,Causes recumbency
+Detomidine (in combination),Premedication,Caprine,15,30,µg/kg,IV,0,Causes recumbency
+Diazepam,Premedication,Caprine,0.05,0.1,mg/kg,IV,0,NULL
+Fentanyl,Premedication,Caprine,2,5,µg/kg,IV,0,NULL
+Hydromorphone,Premedication,Caprine,0.02,0.1,mg/kg,IM,0,NULL
+Meperidine,Premedication,Caprine,2,5,mg/kg,"IV, IM",0,NULL
+Midazolam,Premedication,Caprine,0.05,0.1,mg/kg,"IV, IM",0,NULL
+Morphine,Premedication,Caprine,0.05,0.25,mg/kg,IM,0,NULL
+Pentobarbital,Premedication,Caprine,1,NULL,mg/kg,IV,0,NULL
+Romifidine,Premedication,Caprine,10,50,µg/kg,"IV, IM",0,High doses will cause recumbency
+Xylazine,Premedication,Caprine,0.02,0.1,mg/kg,IV,0,High doses will cause recumbency
+Xylazine,Premedication,Caprine,0.05,0.2,mg/kg,IM,0,High doses will cause recumbency
+Xylazine (in combination with butorphanol),Premedication,Caprine,0.02,NULL,mg/kg,IV,0,Causes recumbency
