@@ -62,13 +62,13 @@
 			<li id="Notes"></li>
 		</ul>		
         <a href="#popupCalc" data-role="button" data-rel="popup" data-icon="grid" data-theme="b">Calculate Dose</a>
-        <div data-role="popup" id="popupCalc" class="ui-content">
+        <div data-role="popup" id="popupCalc" class="ui-content"data-position-to="#Drug">
         	<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
             <form>
                 <div style="padding:10px 20px;">
                     <h3>Calculate Dose</h3>
                     <label for="Weight" class="ui-hidden-accessible">Username:</label>
-                    <input type="number" name="Weight" id="Weight" value="" placeholder="Weight" data-theme="a">
+                    <input type="tel" name="Weight" id="Weight" value="" placeholder="Weight" data-theme="a">
                     <label for="WeightUnits" class="ui-hidden-accessible">Units:</label>
                     <select name="WeightUnits" id="WeightUnits" data-role="slider" data-mini="true" data-theme="a">
                         <option value="off">Kg</option>
